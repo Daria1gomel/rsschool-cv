@@ -1,11 +1,11 @@
 # **Daria Gomel**
 
 ## **Contact information**
-#####**email** dariagomel@gmail.com
-#####**telegram** @daria_bela
+**email** dariagomel@gmail.com
+**telegram** @daria_bela
 
 ## **About me**
-At the moment I work as a planning specialistin the sphere of Design and Engineering (Oil and Gas Industry), but I'm eager to learn new and interesting things. I really hope I'll succeed in the area of Frontend.
+At the moment I work as a planning specialist in the sphere of Design and Engineering (Oil and Gas Industry), but I'm eager to learn new and interesting things. I really hope I'll succeed in the area of Frontend.
 
 ## **Skills**
 * Git (Github)
@@ -27,5 +27,5 @@ function multiply(a,b){
 
 ## **Languages**
 * English - B2
-* German - 
-* Italian - 
+* German - A2
+* Italian - A2
