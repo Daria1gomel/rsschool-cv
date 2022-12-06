@@ -11,10 +11,10 @@ body {
   }
 h1 {
     font-size: 30pt;
-    color: orange;
+    color: red;
 }
 h2 {
-    font-size: 22pt;
+    font-size: 23pt;
 }
 * {
     box-sizing: border-box;
