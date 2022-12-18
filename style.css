@@ -1,6 +1,76 @@
-body {
+* {
+    box-sizing: border-box;
+  }
+
+a {
+    text-decoration: underline;
+    color: black;
+  }
+
+h1 {
+  font-size: 55px;
+}
+
+h2 {
+  font-size: 30px;
+  text-decoration: underline rgb(155, 191, 254);
+}
+
+h3 {
+  font-size: 30px;
+  font-style: oblique;
+}
+
+.myimage {
+    float: left;
+}
+
+.name {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
+
+.profile {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    padding: 15px 15px 15px;
+    border-bottom: 10px solid rgb(155, 191, 254);
+}
+
+.nav-list {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    list-style-type:none;
+    padding: 0 20px;
+    line-height: 50px;
+}
+
+header {
     font-family:'Antic Didone', serif;
-    font-size: 18pt;
-    border: 10px solid orange;
+    font-size: 14pt;
+    background-color: rgb(155, 191, 254);
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    font-family:'Antic Didone', serif;
+    font-size: 14pt;
+    border: none;
     min-height: 100vh
+}
+footer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family:'Antic Didone', serif;
+    font-size: 14pt;
+    padding: 15px 15px 15px;
+    border-top: 10px solid rgb(155, 191, 254);
 }
